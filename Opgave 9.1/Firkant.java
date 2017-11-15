@@ -1,7 +1,11 @@
+/* Lavet af Mikkel Sørensen
+Mikk4211@edu.easj.dk
+EASJ Næstved, DAT 1 */
+
 package com.company;
 
 public class Firkant {
-
+    //Deklarerer variabler, uinstancierede.
     double længde;
     double højde;
 
