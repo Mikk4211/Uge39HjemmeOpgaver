@@ -1,3 +1,7 @@
+/* Lavet af Mikkel Sørensen
+Mikk4211@edu.easj.dk
+EASJ Næstved, DAT 1 */
+
 package com.company;
 
 public class Main {
